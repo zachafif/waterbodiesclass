@@ -40,6 +40,16 @@ After that each model predicted into the wall to wall test dataset,
 
 ![Result](https://github.com/user-attachments/assets/daad19d2-2c89-4484-b84e-ee0d27aceaa6)
 
+
+
+
+
+https://github.com/user-attachments/assets/f3654d15-2cb4-4772-9abf-824058a32703
+
+
+
+
+
 ## Discussion
 
 The modelling result in the test dataset shows a higher accuracy and F1 Score in ensemble models (random forest & XGBoost). Nevertheless, both SVM and logistic regression have results that are not too far from the ensemble models. However, when applied to wall-to-wall dataset, both ensemble models result in a fuzzy raster with a lot of vegetated area into water bodies.
